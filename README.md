@@ -15,16 +15,6 @@ This repo is my Lyoko—a deliberate journey into Yocto, documented as it unfold
 
 This repository is my travel log exploring Yocto and all my thoughts around it. I would be happy if someone could find any interest in it, whether for motivation or information.
 
-## Structure
-code-lyokto/
-├── README.md
-├── docs/
-│   ├── LEARNINGS.md
-│   ├── SETUP.md
-│   └── ARTICLES.md
-└── LICENSE
-
-
 ## Goals
 Goals will change as I learn, because I won't follow a tutorial — just my curiosity.
 
